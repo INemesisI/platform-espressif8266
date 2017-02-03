@@ -1,6 +1,6 @@
 {
-  "name": "espressif8266_stage",
-  "title": "Espressif 8266 (Stage)",
+  "name": "espressif8266_rysta",
+  "title": "Espressif 8266 (Rysta)",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "url": "https://espressif.com/",
   "homepage": "http://platformio.org/platforms/espressif8266",
@@ -21,8 +21,8 @@
     {
       "framework-arduinoespressif8266": [
         {
-          "url": "https://github.com/platformio/Arduino/archive/master.zip",
-          "version": "1.20400.0-dev",
+          "url": "https://github.com/RystaHub/Arduino/archive/master.zip",
+          "version": "1.20400.1-rysta",
           "system": "*"
         }
       ]
@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "1.20400.0-dev"
+      "version": "1.20400.1-rysta"
     },
     "framework-simba": {
       "type": "framework",
