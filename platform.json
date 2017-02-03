@@ -21,7 +21,7 @@
     {
       "framework-arduinoespressif8266": [
         {
-          "url": "https://github.com/RystaHub/Arduino/archive/master.zip",
+          "url": "https://github.com/RystaHub/Arduino/archive/rysta.zip",
           "version": "1.20400.1-rysta",
           "system": "*"
         }
